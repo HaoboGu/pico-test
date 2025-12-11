@@ -5,7 +5,7 @@ product_name = "P60RMK Keyboard"
 vendor_id = 0x8065
 product_id = 0x4643
 manufacturer = "0x8060"
-chip = "rp2040"
+board = "pi_pico_w"
 
 [matrix]
 # Input and output pins are mandatory
