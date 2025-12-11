@@ -1,11 +1,11 @@
 # Documentation: https://haobogu.github.io/rmk/keyboard_configuration.html
 [keyboard]
-name = Pabile60
-product_name = Pabile60
-vendor_id = 0x8065
-product_id = 0x4643
-manufacturer = Pabile
-board = pi_pico_w
+name = "Pabile60"
+product_name = "Pabile60"
+vendor_id = "0x8065"
+product_id = "0x4643"
+manufacturer = "Pabile"
+board = "pi_pico_w"
 #chip = "rp2040"
 
 [ble]
@@ -35,7 +35,7 @@ keymap = [
         ["Tab",    "Q",    "W",    "E",     "R",         "T",     "Y",   "U",   "I",     "O",    "P",         "Minus" ],
         ["Escape", "A",    "S",    "D",     "F",         "G",     "H",   "J",   "K",     "L",    "Semicolon", "Quote" ],
         ["LShift", "Z",    "X",    "C",     "V",         "B",     "N",   "M",   "Comma", "Dot",  "Slash",     "RShift"],
-        ["LCtrl",  "LGui", "LAlt", "MO(1)", "Backspace", "Space", MO(2),  MO(3),  "RAlt",  "RGui", "RCtrl",    "Escape"]
+        ["LCtrl",  "LGui", "LAlt", "MO(1)", "Backspace", "Space", "MO(2)",  "MO(3)",  "RAlt",  "RGui", "RCtrl",    "Escape"]
     ],
     [
         ["_", "_", "_", "_", "_", "_", "_", "_", "_", "_", "_", "_" ],
