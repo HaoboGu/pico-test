@@ -4,9 +4,9 @@ name = "P60RMK Keyboard"
 product_name = "P60RMK Keyboard"
 vendor_id = "0x8065"
 product_id = "0x4643"
-manufacturer = "0x8060"
+manufacturer = "Pabile"
 board = "pi_pico_w"
-chip = "rp2040"
+#chip = "rp2040"
 
 [matrix]
 # Input and output pins are mandatory
